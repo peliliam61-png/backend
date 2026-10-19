@@ -6,7 +6,7 @@
   "r2_buckets": [
     {
       "binding": "FILES_BUCKET",
-      "bucket_name": "YOUR_R2_BUCKET_NAME"
+      "bucket_name": "backend"
     }
   ]
 }
